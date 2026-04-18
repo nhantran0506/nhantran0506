@@ -9,10 +9,6 @@
 
 - 📄 Know about my experiences [trantrongnhan.com](trantrongnhan.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/700000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="700000" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhantran0506&show_icons=true&locale=en&layout=compact" alt="nhantran0506" /></p>
 
